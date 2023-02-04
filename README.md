@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Anton Odintsov 👋
+
+👨‍🎓 I'm currently styding on a dual degree BSc program in Economics and Finance, at KBTU and LSE
+🔭 I’m currently looking for a job in DA
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-odintsov-567b50229/), [Gmail](OdinAnVic@gmail.com), Telegram (@avodintsov)
 
 <!--
 **avodintsov/avodintsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
