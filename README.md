@@ -4,7 +4,7 @@
 
 🔭 I’m currently looking for a job in DA
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-odintsov-567b50229/), [Gmail](OdinAnVic@gmail.com), [Telegram](@avodintsov)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-odintsov-567b50229/), [Gmail](OdinAnVic@gmail.com), Telegram (@avodintsov)
 
 ---
 
