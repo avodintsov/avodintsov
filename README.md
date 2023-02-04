@@ -8,7 +8,7 @@
 
 ---
 
-## Skills:
+### Skills:
 - Python (Pandas, Matplotlib, NumPy, Matplotlib, SciPy, Seaborn, data preprocessing)
 - SQL (PostgreSQL)
 - A/B testing, hypothesis testing, product metrics, event analytics
