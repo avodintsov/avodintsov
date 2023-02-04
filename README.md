@@ -6,6 +6,15 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-odintsov-567b50229/), [Gmail](OdinAnVic@gmail.com), Telegram (@avodintsov)
 
+---
+
+## Skills:
+- Python (Pandas, Matplotlib, NumPy, Matplotlib, SciPy, Seaborn, data preprocessing)
+- SQL (PostgreSQL)
+- A/B testing, hypothesis testing, product metrics, event analytics
+- LaTex, MS Office
+- English C1
+
 <!--
 **avodintsov/avodintsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
