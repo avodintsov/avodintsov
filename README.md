@@ -12,6 +12,7 @@
 - Python (Pandas, Matplotlib, NumPy, Matplotlib, SciPy, Seaborn, data preprocessing)
 - SQL (PostgreSQL)
 - A/B testing, hypothesis testing, product metrics, event analytics
+- Tableau (building interactive dashboards, creating custom calculations, and designing visually appealing charts)
 - LaTeX, MS Office
 - English C1
 
